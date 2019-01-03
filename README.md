@@ -49,7 +49,7 @@ ffmpeg xcode project
 ![step6](assets/step6.png)
 
 ### step 7 修改 `ffmpeg-make` 命令行参数
-
+* 选择manage schemas->ffmpeg-make
 * 修改命令行参数
 ![step7-1](assets/step7-1.png)
 * 修改可执行命令
